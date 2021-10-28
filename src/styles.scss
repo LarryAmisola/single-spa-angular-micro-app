@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif; 
+  display: grid;
+  place-items: center;
+}
+.example-card {
+  max-width: 400px;
+}
+
+.mat-card-image {
+  background-color: aliceblue;
+}
+
+.image-holder {
+  background-color: aliceblue;
+    height: 100%;
+    margin: -16px;
+    margin-bottom: 16px;
+    place-items: center;
+    display: grid;
+}

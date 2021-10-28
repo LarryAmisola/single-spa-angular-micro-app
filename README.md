@@ -1,6 +1,6 @@
-# NgSspaApp
+# A Standalone Single-SPA Angular Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+This project is a micro-application that can be import in a Single-SPA application or serve/build as a standalone application.
 
 ## Development server
 
