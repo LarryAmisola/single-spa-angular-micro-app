@@ -1,6 +1,6 @@
 # A Standalone Single-SPA Angular Application
 
-This project is a micro-application that can be import in a Single-SPA application or serve/build as a standalone application.
+This project is a micro-application that can be import in a Single-SPA (root-config) application or serve/build as a standalone application.
 
 ## Development server
 
