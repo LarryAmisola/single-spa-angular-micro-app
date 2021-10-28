@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --project ngApp -o",
-    "build": "ng build",
+    "build": "ng build --project ngApp",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "build:single-spa:ngSspaApp": "ng build --project ngSspaApp --prod",
