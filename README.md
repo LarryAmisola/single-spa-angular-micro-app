@@ -5,6 +5,7 @@ This project is a micro-application that can be imported in a Single-SPA (root-c
 ## Run locally
 
 Standalone app: `ng s -o`
+
 Single-spa app: `npm run serve:single-spa:ngSspaApp`
 
 ## Guide
