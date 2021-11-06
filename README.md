@@ -4,6 +4,9 @@ This project is a micro-application that can be imported in a Single-SPA (root-c
 
 ![Single-SPA Angular](standalone_build_Diagram.jpg)
 
+<p align="center">
+  <img src="https://github.com/LarryAmisola/single-spa-angular-app/blob/main/standalone_build_Diagram.jpg">
+</p>
 
 ## Run locally
 
